@@ -32,7 +32,7 @@
   <br/>
 
   <b>Библиотеки:</b><br/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat" alt="Swiper Slider"/>
   <img src="https://img.shields.io/badge/clsx-000000?style=flat" alt="clsx"/>
