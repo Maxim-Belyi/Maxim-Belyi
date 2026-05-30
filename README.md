@@ -18,11 +18,14 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
   <br/>
 
-  <b>Backend & Базы данных:</b><br/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+<b>Backend, Базы данных & Очереди:</b><br/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/1C--Bitrix-D6000D?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAyMi41Yy01Ljc5OCAwLTEwLjUtNC43MDItMTAuNS0xMC41UzYuMjAyIDEuNSAxMiAxLjVzMTAuNSA0LjcwMiAxMC41IDEwLjVTMTcuNzk4IDIyLjUgMTIgMjIuNXoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIgNC41Yy00LjEzNiAwLTcuNSA0LjEzNi03LjUgNy41czMuMzY0IDcuNSA3LjUgNy41IDcuNS0zLjM2NCA3LjUtNy41UzE2LjEzNiA0LjUgMTIgNC41em0wIDEzLjVjLTMuMzA5IDAtNi0yLjY5MS02LTZzMi42OTEtNiA2LTZgNiAyLjY5MSA2IDYgMCA2LTIuNjkxIDZ6Ii8+PC9zdmc+" alt="1C-Bitrix"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <br/>
+  <br/>
 
   <b>Инструменты и DevOps:</b><br/>
   <img src="https://img.shields.io/badge/Linux-d7fefd?style=flat&logo=linux&logoColor=black" alt="Linux"/>
@@ -32,6 +35,8 @@
   <br/>
 
   <b>Библиотеки:</b><br/>
+  <img src="https://img.shields.io/badge/pgx-336791?style=flat&logo=postgresql&logoColor=white" alt="pgx"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white" alt="gRPC"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat" alt="Swiper Slider"/>
