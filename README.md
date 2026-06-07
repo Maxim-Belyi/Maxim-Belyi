@@ -37,6 +37,7 @@
   <b>Библиотеки:</b><br/>
   <img src="https://img.shields.io/badge/pgx-336791?style=flat&logo=postgresql&logoColor=white" alt="pgx"/>
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/goquery-007D9C?style=flat&logo=go&logoColor=white" alt="goquery"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat" alt="Swiper Slider"/>
