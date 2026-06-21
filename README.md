@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/>
   <br/>
 
   <b>Библиотеки:</b><br/>
