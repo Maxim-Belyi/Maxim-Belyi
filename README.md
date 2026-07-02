@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/1C--Bitrix-D6000D?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAyMi41Yy01Ljc5OCAwLTEwLjUtNC43MDItMTAuNS0xMC41UzYuMjAyIDEuNSAxMiAxLjVzMTAuNSA0LjcwMiAxMC41IDEwLjVTMTcuNzk4IDIyLjUgMTIgMjIuNXoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIgNC41Yy00LjEzNiAwLTcuNSA0LjEzNi03LjUgNy41czMuMzY0IDcuNSA3LjUgNy41IDcuNS0zLjM2NCA3LjUtNy41UzE2LjEzNiA0LjUgMTIgNC41em0wIDEzLjVjLTMuMzA5IDAtNi0yLjY5MS02LTZzMi42OTEtNiA2LTZgNiAyLjY5MSA2IDYgMCA2LTIuNjkxIDZ6Ii8+PC9zdmc+" alt="1C-Bitrix"/>
   <br/>
 
   <b>Инструменты и DevOps:</b><br/>
