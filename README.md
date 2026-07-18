@@ -34,9 +34,10 @@
   <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/>
   <br/>
 
-  <b>Библиотеки:</b><br/>
+<b>Библиотеки и протоколы:</b><br/>
   <img src="https://img.shields.io/badge/pgx-336791?style=flat&logo=postgresql&logoColor=white" alt="pgx"/>
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/Protobuf-244C5A?style=flat" alt="Protobuf"/>
   <img src="https://img.shields.io/badge/goquery-007D9C?style=flat&logo=go&logoColor=white" alt="goquery"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
