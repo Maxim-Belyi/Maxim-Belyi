@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Привет, я Максим 👋
 </h1>
@@ -6,49 +5,59 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZqaDlqbWNkYzZvYWhnbXE2bnlrdG9rdWtkaGdqNmt5MjJ4cjQwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="600" />
 </p>
 
-<p align="center">
+
+<div  align="center">
+  <h2>Backend Разработчик</h2>
+  Создаю надежные и масштабируемые веб-приложения <br>
+  Открыт к новым проектам и предложениям! 👇<br>
+  <br>
   <a href="https://drive.google.com/file/d/1QeWiRfhXlciOMk-EmPi2sXtONVYgyWO7/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Резюме-2563EB?style=for-the-badge&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/-Открыть_Резюме-2563EB?style=flat&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
-</p>
+</div>
+<br>
 
 <h3 align="left">🛠 Мой технологический стек:</h3>
 <p align="left">
+
 <b>Backend, Базы данных & Очереди:</b><br/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Bitrix%2FB24-2FC7FF?style=flat" alt="Bitrix/B24"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
+<br/>
 
-  <b>Frontend:</b><br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <br/>
+<b>Frontend:</b><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<br/>
 
-  <b>Инструменты и DevOps:</b><br/>
-  <img src="https://img.shields.io/badge/Linux-d7fefd?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/>
-  <br/>
+<b>Инструменты и DevOps:</b><br/>
+<img src="https://img.shields.io/badge/Linux-d7fefd?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white" alt="Composer"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/>
+<br/>
 
 <b>Библиотеки и протоколы:</b><br/>
-  <img src="https://img.shields.io/badge/pgx-336791?style=flat&logo=postgresql&logoColor=white" alt="pgx"/>
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white" alt="gRPC"/>
-  <img src="https://img.shields.io/badge/Protobuf-244C5A?style=flat" alt="Protobuf"/>
-  <img src="https://img.shields.io/badge/goquery-007D9C?style=flat&logo=go&logoColor=white" alt="goquery"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat" alt="Swiper Slider"/>
-</p>
+<img src="https://img.shields.io/badge/pgx-336791?style=flat&logo=postgresql&logoColor=white" alt="pgx"/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white" alt="gRPC"/>
+<img src="https://img.shields.io/badge/Protobuf-244C5A?style=flat" alt="Protobuf"/>
+<img src="https://img.shields.io/badge/goquery-007D9C?style=flat&logo=go&logoColor=white" alt="goquery"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
+<img src="https://img.shields.io/badge/Swiper-6332F6?style=flat" alt="Swiper Slider"/>
 
+</p>
 
 <br/>
 
