@@ -6,6 +6,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZqaDlqbWNkYzZvYWhnbXE2bnlrdG9rdWtkaGdqNmt5MjJ4cjQwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="600" />
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1QeWiRfhXlciOMk-EmPi2sXtONVYgyWO7/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Резюме-2563EB?style=for-the-badge&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
 <h3 align="left">🛠 Мой технологический стек:</h3>
 <p align="left">
