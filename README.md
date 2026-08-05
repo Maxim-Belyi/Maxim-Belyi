@@ -11,7 +11,7 @@
   Создаю надежные и масштабируемые веб-приложения <br>
   Открыт к новым проектам и предложениям! 👇<br>
   <br>
-  <a href="https://drive.google.com/file/d/1QeWiRfhXlciOMk-EmPi2sXtONVYgyWO7/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/19t0fzOb7zb04FlexS035GyzywW8XjuCt/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Открыть_Резюме-2563EB?style=flat&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </div>
